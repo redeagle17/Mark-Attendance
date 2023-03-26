@@ -1,0 +1,34 @@
+
+[data-testid="stSidebar"] {
+    background-image: url(https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: 4px 20px;
+}
+span.css-10trblm.e16nr0p30{
+    font-size:30px;
+
+    test-align:center;
+}
+div.css-1r6slb0.e1tzin5v2{
+    background-color: #262730;
+
+    padding: 5% 5% 5% 10%;
+    border-radius: 5px;
+    height:270px;
+    border-left: 0.5rem solid #000000 !important;
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15) !important;
+}
+div.css-ocqkz7.e1tzin5v4{
+    margin-left:250px;
+    width: 850px;
+}
+div.css-et343.e1tzin5v0{
+    margin-left:-15px;
+}
+div.css-1kyxreq.etr89bj2{
+    margin-left:560px;
+}
+#hey-murtaza-hassan-1ds20ai001{
+    margin-left:450px;
+}
